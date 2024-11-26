@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DianaHuaripayta/static/css/main.5c535a38.css",
-    "main.js": "/DianaHuaripayta/static/js/main.62fec0f2.js",
+    "main.js": "/DianaHuaripayta/static/js/main.a577707d.js",
     "static/media/vokativa.png": "/DianaHuaripayta/static/media/vokativa.8f97052484cc6f984347.png",
     "static/media/project1.png": "/DianaHuaripayta/static/media/project1.ce2cb83f0009da6317a8.png",
     "static/media/shopping.png": "/DianaHuaripayta/static/media/shopping.9fadf573a2fe91586fa5.png",
@@ -35,10 +35,10 @@
     "static/media/vue-icon.svg": "/DianaHuaripayta/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/angular_icon_130993.svg": "/DianaHuaripayta/static/media/angular_icon_130993.813cf587d4b62d77c96995b9e7d9c626.svg",
     "main.5c535a38.css.map": "/DianaHuaripayta/static/css/main.5c535a38.css.map",
-    "main.62fec0f2.js.map": "/DianaHuaripayta/static/js/main.62fec0f2.js.map"
+    "main.a577707d.js.map": "/DianaHuaripayta/static/js/main.a577707d.js.map"
   },
   "entrypoints": [
     "static/css/main.5c535a38.css",
-    "static/js/main.62fec0f2.js"
+    "static/js/main.a577707d.js"
   ]
 }
