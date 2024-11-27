@@ -1,7 +1,6 @@
 # Portfolio of Diana Huaripayta G.
 
-<img src ="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.vinayaksingh.in.png" />
- 
+<img src ="https://raw.githubusercontent.com/DianaHuaripayta/Diana-Huaripayta/refs/heads/main/src/assets/ProyectoImg.png" />
 This project was created with CRA (Create React App)
 
 This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
