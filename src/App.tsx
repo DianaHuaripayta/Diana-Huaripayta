@@ -8,6 +8,7 @@ import 'react-toastify/dist/ReactToastify.css'
 function App() {
   return (
     <>
+    
       <GlobalStyle></GlobalStyle>
       <Header></Header>
       <Main></Main>
