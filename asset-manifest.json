@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Diana-Huaripayta/static/css/main.5c535a38.css",
-    "main.js": "/Diana-Huaripayta/static/js/main.e9c6996f.js",
+    "main.js": "/Diana-Huaripayta/static/js/main.e0263049.js",
     "static/media/vokativa.png": "/Diana-Huaripayta/static/media/vokativa.8f97052484cc6f984347.png",
     "static/media/project1.png": "/Diana-Huaripayta/static/media/project1.ce2cb83f0009da6317a8.png",
     "static/media/shopping.png": "/Diana-Huaripayta/static/media/shopping.9fadf573a2fe91586fa5.png",
@@ -9,8 +9,8 @@
     "static/media/socialNetwork.png": "/Diana-Huaripayta/static/media/socialNetwork.5a2bc6702a9e272e03e3.png",
     "static/media/Countries.png": "/Diana-Huaripayta/static/media/Countries.229938d6e77c761020fe.png",
     "static/media/Hello.gif": "/Diana-Huaripayta/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/Vinayak_Kumar_Singh_Resume.pdf": "/Diana-Huaripayta/static/media/Vinayak_Kumar_Singh_Resume.b8af80768400b5b87593.pdf",
     "static/media/DianaAHG.jpeg": "/Diana-Huaripayta/static/media/DianaAHG.f657cec1d072c93f36dd.jpeg",
+    "static/media/Curriculum-vitae.pdf": "/Diana-Huaripayta/static/media/Curriculum-vitae.1d41a6195ac9a6a0e36f.pdf",
     "static/media/illustration.svg": "/Diana-Huaripayta/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "/Diana-Huaripayta/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/node-icon.svg": "/Diana-Huaripayta/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
@@ -35,10 +35,10 @@
     "static/media/vue-icon.svg": "/Diana-Huaripayta/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/angular_icon_130993.svg": "/Diana-Huaripayta/static/media/angular_icon_130993.813cf587d4b62d77c96995b9e7d9c626.svg",
     "main.5c535a38.css.map": "/Diana-Huaripayta/static/css/main.5c535a38.css.map",
-    "main.e9c6996f.js.map": "/Diana-Huaripayta/static/js/main.e9c6996f.js.map"
+    "main.e0263049.js.map": "/Diana-Huaripayta/static/js/main.e0263049.js.map"
   },
   "entrypoints": [
     "static/css/main.5c535a38.css",
-    "static/js/main.e9c6996f.js"
+    "static/js/main.e0263049.js"
   ]
 }
