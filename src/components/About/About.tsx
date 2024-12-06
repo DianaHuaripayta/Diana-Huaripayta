@@ -35,7 +35,7 @@ export function About() {
                       </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
-          <h3>Here are my main skills:</h3>
+          <h3>Aquí están mis principales habilidades:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
           <div className="hability">
@@ -100,11 +100,11 @@ export function About() {
           </div>
         </div>
       </div>
-      <div className="about-image">
+      {/* <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.20 * 1000}>
           <img src={DianaAHG} alt="Diana HG" />
         </ScrollAnimation>
-      </div>
+      </div> */}
     </Container>
   )
 }

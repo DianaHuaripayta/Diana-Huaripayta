@@ -11,10 +11,9 @@ export function Footer() {
   return (
     <Container className="footer">
       <div>
-        <p>
+        {/* <p>
           This Website was made with <img src={reactIcon} alt="React" />
-          {/* <span>❤️</span> */}
-        </p>
+        </p> */}
       </div>
       <div className="social-media">
         <a

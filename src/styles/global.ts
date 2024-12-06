@@ -4,10 +4,11 @@ export const GlobalStyle = createGlobalStyle`
   :root{
     --pink: #E31F71;
     --black: #212121;
-    --green: #23ce6b;
+    --green: #1E3A8A;
     --blue: #016fb9;
+    --white: #ffff;
     scroll-padding-top: 10rem;
-
+/*  #23ce6b; */
     &.light{
 
       body{

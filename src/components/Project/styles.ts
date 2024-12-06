@@ -19,16 +19,17 @@ export const Container = styled.section`
 
     .project{
       padding: 2rem 1.8rem;
-      background-color: #2b2b2b;
+      /* background-color: #2b2b2b; */
       border-radius: 1.2rem;
       transition: 0.25s;
       display: flex;
       flex-direction: column;
       height: 100%;
-      color: #FFF;
+      color:  var(--green);
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
       &:hover{
         transform: translateY(-5px);
-        background-color: var(--pink);
+        /* background-color: var(--green); */
       }
 
       header{

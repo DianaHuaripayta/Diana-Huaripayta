@@ -2,13 +2,14 @@ import styled from "styled-components";
 
 
 export const Container = styled.footer`
-  background-color: #2b2b2b;
+  background-color: #f5f5f550;
   padding: 3rem 15rem;
   margin-top: 10rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-
+  position:relative;
+  
 
   .logo{
     font-size: 2.8rem;

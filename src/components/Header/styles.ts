@@ -16,13 +16,15 @@ export const Container = styled.header`
   left: 0;
   width: 100vw;
   z-index: 1000;
-
+  .btn-color{
+       color: #ffff !important;
+  }
   nav{
     display: flex;
     align-items: center;
     gap: 1.8rem;
     a{
-      color: #FFFF;
+      color: var(--white);
       padding: 0.6rem;
       font-family: 'Red Hat Display', sans-serif;
       font-weight: 500;
@@ -31,10 +33,12 @@ export const Container = styled.header`
 
       &.button{
         padding: 0.6rem 2rem;
+        color: var(--white);
       }
 
       &:hover{
         filter: brightness(0.6);
+        
       }
     }
 
@@ -172,7 +176,7 @@ export const Container = styled.header`
       background-color: var(--green);
 
       a.button{
-        background-color: var(--pink);
+        color: var(--white);
       }
 
       &.active{

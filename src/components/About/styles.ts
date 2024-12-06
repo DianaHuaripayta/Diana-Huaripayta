@@ -2,9 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.section`
   margin-top: 12rem;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+
 
   .hard-skills{
     margin-top: 1.6rem;
@@ -24,12 +22,9 @@ export const Container = styled.section`
   }
 
   h2{
-    display: inline-block;
-    margin-bottom: 2rem;
-    // border-bottom: 0.2rem solid var(--blue);
-    font-size :3rem;
-    margin-top: 0rem;
-    color: var(--green);
+    text-align: center;
+      font-size: 4rem;
+      margin-bottom:1em;
   }
 
   h3{
