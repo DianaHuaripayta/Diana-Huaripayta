@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Diana-Huaripayta-G/static/css/main.5c535a38.css",
-    "main.js": "/Diana-Huaripayta-G/static/js/main.5b1979d3.js",
+    "main.js": "/Diana-Huaripayta-G/static/js/main.42647a2a.js",
     "static/media/vokativa.png": "/Diana-Huaripayta-G/static/media/vokativa.8f97052484cc6f984347.png",
     "static/media/project1.png": "/Diana-Huaripayta-G/static/media/project1.ce2cb83f0009da6317a8.png",
     "static/media/shopping.png": "/Diana-Huaripayta-G/static/media/shopping.9fadf573a2fe91586fa5.png",
@@ -29,10 +29,10 @@
     "static/media/vue-icon.svg": "/Diana-Huaripayta-G/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/angular_icon_130993.svg": "/Diana-Huaripayta-G/static/media/angular_icon_130993.813cf587d4b62d77c96995b9e7d9c626.svg",
     "main.5c535a38.css.map": "/Diana-Huaripayta-G/static/css/main.5c535a38.css.map",
-    "main.5b1979d3.js.map": "/Diana-Huaripayta-G/static/js/main.5b1979d3.js.map"
+    "main.42647a2a.js.map": "/Diana-Huaripayta-G/static/js/main.42647a2a.js.map"
   },
   "entrypoints": [
     "static/css/main.5c535a38.css",
-    "static/js/main.5b1979d3.js"
+    "static/js/main.42647a2a.js"
   ]
 }
