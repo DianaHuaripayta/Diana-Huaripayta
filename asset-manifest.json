@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Diana-Huaripayta-G/static/css/main.5c535a38.css",
-    "main.js": "/Diana-Huaripayta-G/static/js/main.5268f570.js",
+    "main.js": "/Diana-Huaripayta-G/static/js/main.5b1979d3.js",
     "static/media/vokativa.png": "/Diana-Huaripayta-G/static/media/vokativa.8f97052484cc6f984347.png",
     "static/media/project1.png": "/Diana-Huaripayta-G/static/media/project1.ce2cb83f0009da6317a8.png",
     "static/media/shopping.png": "/Diana-Huaripayta-G/static/media/shopping.9fadf573a2fe91586fa5.png",
@@ -9,7 +9,7 @@
     "static/media/socialNetwork.png": "/Diana-Huaripayta-G/static/media/socialNetwork.5a2bc6702a9e272e03e3.png",
     "static/media/Countries.png": "/Diana-Huaripayta-G/static/media/Countries.229938d6e77c761020fe.png",
     "static/media/DianaAHG.jpeg": "/Diana-Huaripayta-G/static/media/DianaAHG.f657cec1d072c93f36dd.jpeg",
-    "static/media/Curriculum-vitae.pdf": "/Diana-Huaripayta-G/static/media/Curriculum-vitae.1d41a6195ac9a6a0e36f.pdf",
+    "static/media/Diana_Huaripayta_CV.pdf": "/Diana-Huaripayta-G/static/media/Diana_Huaripayta_CV.20e1cedc6d492d0701bb.pdf",
     "static/media/node-icon.svg": "/Diana-Huaripayta-G/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
     "static/media/typescript-icon.svg": "/Diana-Huaripayta-G/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
     "static/media/whatsapp.svg": "/Diana-Huaripayta-G/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
@@ -17,9 +17,9 @@
     "static/media/react-icon.svg": "/Diana-Huaripayta-G/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "index.html": "/Diana-Huaripayta-G/index.html",
     "static/media/instagram.svg": "/Diana-Huaripayta-G/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
-    "static/media/github.svg": "/Diana-Huaripayta-G/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/github.svg": "/Diana-Huaripayta-G/static/media/github.ca20ac88ee4c92ae1d1bd7c260803cac.svg",
     "static/media/email-icon.svg": "/Diana-Huaripayta-G/static/media/email-icon.a83578f914460e952501546655b76165.svg",
-    "static/media/external-link.svg": "/Diana-Huaripayta-G/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/externalLink.svg": "/Diana-Huaripayta-G/static/media/externalLink.908926a16b9bf34ff4d30c243e0c8165.svg",
     "static/media/html-icon.svg": "/Diana-Huaripayta-G/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
     "static/media/wordpress.svg": "/Diana-Huaripayta-G/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
     "static/media/css-icon.svg": "/Diana-Huaripayta-G/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
@@ -29,10 +29,10 @@
     "static/media/vue-icon.svg": "/Diana-Huaripayta-G/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/angular_icon_130993.svg": "/Diana-Huaripayta-G/static/media/angular_icon_130993.813cf587d4b62d77c96995b9e7d9c626.svg",
     "main.5c535a38.css.map": "/Diana-Huaripayta-G/static/css/main.5c535a38.css.map",
-    "main.5268f570.js.map": "/Diana-Huaripayta-G/static/js/main.5268f570.js.map"
+    "main.5b1979d3.js.map": "/Diana-Huaripayta-G/static/js/main.5b1979d3.js.map"
   },
   "entrypoints": [
     "static/css/main.5c535a38.css",
-    "static/js/main.5268f570.js"
+    "static/js/main.5b1979d3.js"
   ]
 }
