@@ -4,7 +4,7 @@ export const GlobalStyle = createGlobalStyle`
   :root{
     --pink: #E31F71;
     --black: #212121;
-    --green: #1E3A8A;
+    /* --blue: #1E3A8A; */
     --blue: #016fb9;
     --white: #ffff;
     scroll-padding-top: 10rem;
@@ -23,10 +23,10 @@ export const GlobalStyle = createGlobalStyle`
 
       header.header-fixed{
         transition: 0.5s;
-        background-color: #f5f5f550;
+        background-color: var(--blue);
         a{
           transition: 0.5s;
-          color: black;
+          color: var(--white);
         }
         .menu,.menu:before, .menu:after{
           background-color: var(--black); 
@@ -93,7 +93,7 @@ export const GlobalStyle = createGlobalStyle`
   button, .button{
     border: none;
     cursor: pointer;
-    background-color: var(--green);
+    background-color: var(--blue);
     color: #FFFF;
     border-radius: 2rem;
     font-weight: 500;
@@ -113,7 +113,7 @@ export const GlobalStyle = createGlobalStyle`
     font-size: 3rem;
     color: #FFFF;
     // &::first-letter{
-    //   color: var(--green);
+    //   color: var(--blue);
     // }
   }
 `

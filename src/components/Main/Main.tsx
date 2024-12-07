@@ -3,21 +3,7 @@ import { Container } from "./styles";
 import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
-import { Project } from "../Project/Project";
-import wordpress from "../../assets/wordpress.svg";
-import shopify from "../../assets/shopify.svg";
-import htmlIcon from "../../assets/html-icon.svg";
-import cssIcon from "../../assets/css-icon.svg";
-import sassIcon from "../../assets/sass-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
-import nodeIcon from "../../assets/node-icon.svg";
-import reactIcon from "../../assets/react-icon.svg";
-import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
-import boostrapIcon from "../../assets/bootstrap-icon.svg";
-import Angular from "../../assets/angular_icon_130993.svg"
-import Flutter from "../../assets/file_type_flutter_icon_130599.svg"
-import Mongo from "../../assets/file_type_mongo_icon_130383.svg"
+import Project from "../Project/Project";
 export function Main() {
   return (
     <Container>
@@ -36,19 +22,9 @@ export function Main() {
                 enable: true,
                 mode: "push",
               },
-              onHover: {
-                enable: false,
-                mode: "grab", // Cambiado a "grab" para destacar los links al pasar el mouse
-              },
               resize: true,
             },
             modes: {
-              grab: {
-                distance: 200,
-                links: {
-                  opacity: 1,
-                },
-              },
               push: {
                 quantity: 4,
               },
@@ -60,43 +36,41 @@ export function Main() {
                 enable: true,
                 area: 800,
               },
-              value: 50, // Aumenta el número de partículas
+              value: 200, // Más partículas para simular un cielo estrellado
             },
             color: {
-              value: "#ffffff",
+              value: ["#ffffff", "#f8f9fa", "#adb5bd"], // Colores para variación
             },
             links: {
-              enable: true, // Habilita los links
-              distance: 150, // Distancia entre partículas conectadas
-              color: "#1E3A8A", // Color de las líneas
-              opacity: 0.5, // Opacidad de las líneas
-              width: 1, // Grosor de las líneas
+              enable: false, // Desactiva líneas de conexión
             },
             move: {
               enable: true,
-              speed: 2,
+              speed: 0.5, // Movimiento lento como estrellas lejanas
               direction: "none",
-              random: false,
+              random: true,
               straight: false,
               outMode: "out",
-              attract: {
-                enable: false,
-              },
             },
             shape: {
-              type: "circle", // Puedes alternar entre "circle", "image", etc.
+              type: "star", // Cambia a estrellas
             },
             size: {
-              value: 5,
+              value: { min: 1, max: 3 }, // Tamaños pequeños para simular estrellas
               random: true,
             },
             opacity: {
-              value: 0.5,
+              value: { min: 0.3, max: 1 }, // Variación en la intensidad de las estrellas
               random: true,
+              animation: {
+                enable: true,
+                speed: 0.5,
+                minimumValue: 0.3,
+              },
             },
           },
           background: {
-            color: "#ffff", // Color de fondo
+            color: "#ffff", // Fondo negro para el cielo nocturno
           },
         }}
       />

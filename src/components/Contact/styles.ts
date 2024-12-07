@@ -11,7 +11,7 @@ export const Container = styled.section`
       font-size: 4rem;
     }
     p{
-      color: var(--green);
+      color: var(--blue);
       font-weight: 500;
     }
   }
@@ -43,7 +43,7 @@ export const Container = styled.section`
         font-weight: 500;
       }
       &:hover{
-        border: solid var(--green) 1px;
+        border: solid var(--blue) 1px;
         a{
           color:var(--black);
         }

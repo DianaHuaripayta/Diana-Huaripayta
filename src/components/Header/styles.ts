@@ -6,18 +6,16 @@ export const Container = styled.header`
   justify-content: space-between;
   align-items: center;
   padding: 1.8rem 10rem;
-  
-  background-color: #21212150;
-  
   backdrop-filter: blur(6px);
-
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   z-index: 1000;
   .btn-color{
-       color: #ffff !important;
+    font-weight:bold;
+    color: var(--black) !important;
+    background: var(--white) !important;
   }
   nav{
     display: flex;
@@ -105,7 +103,7 @@ export const Container = styled.header`
     text-indent: -9999px;
     width: 55px;
     height: 30px;
-    background: var(--green);
+    background: var(--blue);
     display: block;
     justify-content: center;
     align-items: center;
@@ -173,7 +171,7 @@ export const Container = styled.header`
       top: 0;
       left: 0;
       transition: opacity 0.25s;
-      background-color: var(--green);
+      background-color: var(--blue);
 
       a.button{
         color: var(--white);

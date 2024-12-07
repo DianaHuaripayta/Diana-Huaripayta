@@ -29,7 +29,7 @@ export const Container = styled.section`
 
   h3{
     margin-top: 2rem;
-    color: var(--green);
+    color: var(--blue);
   }
 
   p{

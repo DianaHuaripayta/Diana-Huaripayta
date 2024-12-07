@@ -2,7 +2,7 @@ import { Container } from './styles'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useEffect, useState } from 'react'
-import Resume from '../../assets/Curriculum-vitae.pdf'
+import Resume from '../../assets/Diana_Huaripayta_CV.pdf'
 export function Header() {
   const [isActive, setActive] = useState(false)
   const [theme, setTheme] = useState('light'); // Estado inicial como 'light'
@@ -22,14 +22,6 @@ export function Header() {
           <span>{"Diana "}</span>
           <span>{"Huaripayta"}</span>
         </HashLink>
-        {/* <input
-          onChange={toggleTheme}
-          className="container_toggle"
-          type="checkbox"
-          id="switch"
-          name="mode"
-        /> */}
-        {/* <label htmlFor="switch">Toggle</label> */}
         <nav className={isActive ? 'active' : ''}>
           <NavHashLink smooth to="#home" onClick={closeMenu}>
             Home
