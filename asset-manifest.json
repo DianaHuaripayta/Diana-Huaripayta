@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Diana-Huaripayta-G/static/css/main.ef3855d7.css",
-    "main.js": "/Diana-Huaripayta-G/static/js/main.502e3ece.js",
+    "main.js": "/Diana-Huaripayta-G/static/js/main.005c1e66.js",
     "static/media/vokativa_2.png": "/Diana-Huaripayta-G/static/media/vokativa_2.0ca5efc860c2ab1497ee.png",
     "static/media/Altope_1.png": "/Diana-Huaripayta-G/static/media/Altope_1.f09b44dd7eea56f1b0a9.png",
     "static/media/toktik_3.png": "/Diana-Huaripayta-G/static/media/toktik_3.456fad3a1d5fe6282469.png",
@@ -9,13 +9,11 @@
     "static/media/toktik_1.png": "/Diana-Huaripayta-G/static/media/toktik_1.3ca4b2eb94bae65c2e21.png",
     "static/media/vokativa_1.png": "/Diana-Huaripayta-G/static/media/vokativa_1.b1fd2bfefa20fcc1d8e9.png",
     "static/media/ghibli_2.png": "/Diana-Huaripayta-G/static/media/ghibli_2.712c550664486f423633.png",
-    "static/media/project1.png": "/Diana-Huaripayta-G/static/media/project1.ce2cb83f0009da6317a8.png",
     "static/media/ghibli_3.png": "/Diana-Huaripayta-G/static/media/ghibli_3.899e90ca0f6509d18fb9.png",
     "static/media/Altope_4.png": "/Diana-Huaripayta-G/static/media/Altope_4.5178a7cf92c311fbba55.png",
     "static/media/Altope_6.png": "/Diana-Huaripayta-G/static/media/Altope_6.1119728ac148a05bf7e8.png",
     "static/media/Altope_5.png": "/Diana-Huaripayta-G/static/media/Altope_5.69d1b30154da64272e16.png",
     "static/media/ghibli_1.png": "/Diana-Huaripayta-G/static/media/ghibli_1.d9e849b0b1373d88380c.png",
-    "static/media/socialNetwork.png": "/Diana-Huaripayta-G/static/media/socialNetwork.5a2bc6702a9e272e03e3.png",
     "static/media/Network_2.png": "/Diana-Huaripayta-G/static/media/Network_2.7f3b55d1b1f492ef805e.png",
     "static/media/Network_1.png": "/Diana-Huaripayta-G/static/media/Network_1.1bd43131a4e9ce30af15.png",
     "static/media/vokativa_3.png": "/Diana-Huaripayta-G/static/media/vokativa_3.28ef7bc57ed4e5d822b0.png",
@@ -47,10 +45,10 @@
     "static/media/vue-icon.svg": "/Diana-Huaripayta-G/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/angular_icon_130993.svg": "/Diana-Huaripayta-G/static/media/angular_icon_130993.813cf587d4b62d77c96995b9e7d9c626.svg",
     "main.ef3855d7.css.map": "/Diana-Huaripayta-G/static/css/main.ef3855d7.css.map",
-    "main.502e3ece.js.map": "/Diana-Huaripayta-G/static/js/main.502e3ece.js.map"
+    "main.005c1e66.js.map": "/Diana-Huaripayta-G/static/js/main.005c1e66.js.map"
   },
   "entrypoints": [
     "static/css/main.ef3855d7.css",
-    "static/js/main.502e3ece.js"
+    "static/js/main.005c1e66.js"
   ]
 }
