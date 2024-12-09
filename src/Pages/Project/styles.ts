@@ -80,9 +80,12 @@ export const Container = styled.section`
     }
     body{
       img{
-        height: 14em;
-      width: 100%;
-      object-fit: contain;
+        height: 100%;
+    width: 100%;
+    min-height: 22em;
+    max-height: 22em;
+    object-fit: cover;
+      
       }
     }
     h3 {

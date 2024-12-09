@@ -3,8 +3,7 @@ import vk_1 from "../../assets/vokativa_1.png";
 import vk_2 from "../../assets/vokativa_2.png";
 import vk_3 from "../../assets/vokativa_3.png";
 import vk_4 from "../../assets/vokativa_4.png";
-import project1 from "../../assets/project1.png";
-import project2 from "../../assets/socialNetwork.png";
+import vkp_0 from "../../assets/portalTokTIK.png"
 
 import a_1 from "../../assets/Altope_1.png";
 import a_2 from "../../assets/Altope_2.png";
@@ -32,19 +31,19 @@ export const projects = [
       title: "Vokativa",
       techStack: ["React v18", "React Router Dom", "Slick Carousel", "Styled Components"],
       description:'Vokativa es una landing page interactiva y moderna diseñada y desarrollada completamente con React, utilizando las últimas tecnologías y mejores prácticas de desarrollo web. Este proyecto fue creado para representar la identidad de la marca Vokativa, destacando su propuesta de valor de manera visual y funcional.',
-      imgPortada: vk_2,
+      imgPortada: vk_1,
       images: [vk_1, vk_2, vk_3, vk_4],
     },
     {
       title: "Altope App",
       description:'Desarrollé un sistema de inventario robusto y eficiente utilizando Angular v17, diseñado para optimizar la gestión de productos, facilitar el control de existencias y mejorar la toma de decisiones empresariales. Este proyecto incluye funcionalidades clave como la actualización en tiempo real de inventarios, generación de reportes, categorización de productos y una interfaz intuitiva para garantizar una experiencia de usuario fluida.El sistema está pensado para pequeñas y medianas empresas que buscan digitalizar sus operaciones y mantener un control preciso de sus recursos.',
-      imgPortada: a_2,
+      imgPortada: a_1,
       images: [a_1, a_2, a_3, a_4,a_5,a_6, a_7],
       techStack: ["Angular v17", "Firebase", "Material Angular", "Prime Ng", "xlsx", "Mongo DB", 'Node.js', 'Express'],
     },
     {
       title: "Toktik",
-      imgPortada: t_2,      
+      imgPortada: vkp_0,      
       description:"Toktik es una aplicación interactiva creada con Dart y Flutter, diseñada para ofrecer una experiencia fluida y atractiva en el manejo de contenido multimedia.",
       images: [t_1, t_2, t_3,],
       techStack: ["Dart", "Flutter"],

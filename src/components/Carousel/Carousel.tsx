@@ -18,11 +18,11 @@ const Carousel: React.FC<ModalProps> = ({ project }) => {
   const settings = {
     dots: true,
     infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
     autoplay: true,
     speed: 2000,
     autoplaySpeed: 3000,
+    slidesToShow: 1,
+    slidesToScroll: 1,
     cssEase: "ease-in-out",
     adaptiveHeight: true,
     responsive: [
@@ -48,6 +48,63 @@ const Carousel: React.FC<ModalProps> = ({ project }) => {
     max-width: 800px;
     margin: 0 auto;
 
+  
+    .slick-list .slick-slide:nth-child(even) {
+      background-color: var(--blue);
+    }
+    .slick-list .slick-slide:nth-child(odd) {
+      background-color: var(--blue);
+
+    }
+    .slick-arrow {
+      z-index: 1;
+      width: 40px;
+      height: 40px;
+    }
+
+    .slick-arrow:before {
+      font-size: 30px;
+    }
+    .slick-next {
+      right: 0;
+    }
+    .slick-prev {
+      left: 0;
+    }
+
+
+.slick-dots {
+	display: flex;
+	justify-content: center;
+	
+
+	padding: 1rem 0;
+	margin: 2em 0em;
+	list-style-type: none;
+	
+		li {
+			margin: 0 0.25rem;
+		}
+	
+		button {
+			display: block;
+			width: 2rem;
+			height: 2rem;
+			padding: 0;
+			
+			border: none;
+			border-radius: 100%;
+			background-color: #b2adadd9;
+      border: 3px solid  #000000a6;
+			text-indent: -9999px;
+		}
+	
+		li.slick-active button {
+			background-color: #fff;
+      border: 3px solid var(--blue);
+		}
+	
+}
     @media (max-width: 768px) {
       max-width: 90%;
     }

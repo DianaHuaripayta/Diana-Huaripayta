@@ -73,11 +73,14 @@ const Card = styled.div`
     opacity: 0;
     transition: opacity 0.3s ease, transform 0.3s ease;
     pointer-events: none;
+    z-index:9;
   }
 
   &:hover .project-hover-icon {
     opacity: 1;
     transform: translate(-50%, -50%) scale(1.2);
+
+    background-color: var(--blue);
   }
 `;
 

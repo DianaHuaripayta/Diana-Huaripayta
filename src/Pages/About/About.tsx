@@ -36,7 +36,7 @@ export function About() {
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
-          <h3>Aquí están mis principales Tecnologías:</h3>
+          <h3>Las principales tecnologías que manejo:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
           <div className="hard-skills">
