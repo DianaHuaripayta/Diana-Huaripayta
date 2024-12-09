@@ -38,7 +38,7 @@ export const GlobalStyle = createGlobalStyle`
 
       footer.footer{
         transition: 0.5s;
-        background-color: rgba(0,0,0,0.1);
+        background-color: #f5f5f5;
         color: var(--black);
       }
 

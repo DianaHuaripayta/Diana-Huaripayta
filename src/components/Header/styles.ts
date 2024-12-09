@@ -11,7 +11,8 @@ export const Container = styled.header`
   top: 0;
   left: 0;
   width: 100vw;
-  z-index: 1000;
+  z-index: 1;
+  
   .btn-color{
     font-weight:bold;
     color: var(--black) !important;
