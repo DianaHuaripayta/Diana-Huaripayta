@@ -11,11 +11,12 @@ const Card = styled.div`
   transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
   position: relative;
   overflow: hidden;
-
+  cursor:pointer;
   &:hover {
     transform: translateY(-5px);
     box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 15px;
     background-color: #f4f8fc;
+
   }
 
   header {
@@ -42,7 +43,7 @@ const Card = styled.div`
       gap: 1rem;
       list-style: none;
       padding: 0;
-      margin: 0;
+      margin-top: 1em;
 
       li {
         font-size: 1.2rem;

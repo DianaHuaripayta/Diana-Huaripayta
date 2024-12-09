@@ -3,7 +3,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 import Card from "./styled";
 interface ProjectCardProps {
   title: string;
-
+  imgPortada?: string
   link?: string;
   repoLink?: string;
   techStack: string[];
@@ -12,6 +12,7 @@ interface ProjectCardProps {
 const ProjectCard: React.FC<ProjectCardProps> = ({
   title,
   techStack,
+  imgPortada,
 }) => {
   return (
 
@@ -20,6 +21,9 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
       <header>
         <h3>{title}</h3>
       </header>
+      <body>
+        <img src={imgPortada} alt={title} />
+      </body>
       <footer>
         <ul className="tech-list">
           {techStack.map((tech, index) => (

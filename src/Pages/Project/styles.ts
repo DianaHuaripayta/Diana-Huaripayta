@@ -12,8 +12,8 @@ export const Container = styled.section`
 
   .projects {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(29em, 1fr));
+    gap: 5rem;
     padding: 1rem;
     overflow: hidden;
 
@@ -24,6 +24,7 @@ export const Container = styled.section`
       display: flex;
       flex-direction: column;
       height: 100%;
+     
       color: var(--blue);
       cursor: pointer;
       box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, 
@@ -77,7 +78,13 @@ export const Container = styled.section`
         width: 2.5rem;
       }
     }
-
+    body{
+      img{
+        height: 14em;
+      width: 100%;
+      object-fit: contain;
+      }
+    }
     h3 {
       margin-bottom: 2rem;
     }
