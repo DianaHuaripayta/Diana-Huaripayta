@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Diana-Huaripayta-G/static/css/main.ef3855d7.css",
-    "main.js": "/Diana-Huaripayta-G/static/js/main.42829496.js",
+    "main.js": "/Diana-Huaripayta-G/static/js/main.e0071525.js",
     "static/media/portalTokTIK.png": "/Diana-Huaripayta-G/static/media/portalTokTIK.18d4e13ae4b59667d3d3.png",
     "static/media/vokativa_2.png": "/Diana-Huaripayta-G/static/media/vokativa_2.0ca5efc860c2ab1497ee.png",
     "static/media/Altope_1.png": "/Diana-Huaripayta-G/static/media/Altope_1.f09b44dd7eea56f1b0a9.png",
@@ -46,10 +46,10 @@
     "static/media/vue-icon.svg": "/Diana-Huaripayta-G/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/angular_icon_130993.svg": "/Diana-Huaripayta-G/static/media/angular_icon_130993.813cf587d4b62d77c96995b9e7d9c626.svg",
     "main.ef3855d7.css.map": "/Diana-Huaripayta-G/static/css/main.ef3855d7.css.map",
-    "main.42829496.js.map": "/Diana-Huaripayta-G/static/js/main.42829496.js.map"
+    "main.e0071525.js.map": "/Diana-Huaripayta-G/static/js/main.e0071525.js.map"
   },
   "entrypoints": [
     "static/css/main.ef3855d7.css",
-    "static/js/main.42829496.js"
+    "static/js/main.e0071525.js"
   ]
 }
