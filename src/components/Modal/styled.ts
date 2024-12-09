@@ -120,7 +120,7 @@ export const ModalList = styled.ul`
 `;
 
 export const ModalListItem = styled.li`
-  background: var(--blue);
+  background: #016fb999;
   color: white;
   font-weight: bold;
   padding: 8px 12px;
