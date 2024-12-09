@@ -63,12 +63,13 @@ const Carousel: React.FC<ModalProps> = ({ project }) => {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-
+    height: 20%;
     img {
       width: 100%;
       max-width: 100%;
-      height: auto;
+      height: 20em;
       border-radius: 10px; /* Opcional para un diseño más limpio */
+      object-fit: contain;
     }
   `;
 

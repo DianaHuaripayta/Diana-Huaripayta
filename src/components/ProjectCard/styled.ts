@@ -51,12 +51,6 @@ const Card = styled.div`
         border-radius: 0.8rem;
         padding: 0.4rem 0.8rem;
         transition: background-color 0.3s ease, transform 0.2s ease;
-
-        &:hover {
-          background-color: var(--blue-light);
-          color: #ffffff;
-          transform: scale(1.1);
-        }
       }
     }
   }
